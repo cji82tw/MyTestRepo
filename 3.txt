@@ -1,2 +1,3 @@
 create by nano
 Test Pull merge
+Make remote edit to conflict before commit
